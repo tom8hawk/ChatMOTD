@@ -1,0 +1,8 @@
+name: ChatMOTD
+version: '${project.version}'
+main: ru.siaw.chatmotd.ChatMOTD
+softdepend: [ Chatty ]
+
+commands:
+  chatmotd:
+    aliases: cm

@@ -1,0 +1,8 @@
+# MOTD always displayed
+# a random string from the list will be selected
+motd:
+  - '&four players are the best ♥'
+  - '&fthank you!'
+
+# will be added to the MOTD after someone writes to the global chat
+message-line: '&e%player: &f%message'
